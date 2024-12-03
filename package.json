@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/gcharang/notary-stats#readme",
   "dependencies": {
-    "aws-sdk": "^2.640.0",
+    "aws-sdk": "^2.1354.0",
     "axios": "^0.21.1",
     "bs58check": "^2.1.2",
     "create-hash": "^1.2.0",
